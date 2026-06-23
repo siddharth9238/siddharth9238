@@ -82,8 +82,8 @@ graph TD
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohitkadwe19&theme=github_dark" />
-  <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mohitkadwe19&theme=github_dark" />
+  <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=siddharth9238&theme=github_dark" />
+  <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=siddharth9238&theme=github_dark" />
 </div>
 
 <div align="center">
@@ -94,6 +94,12 @@ graph TD
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=siddharth9238&theme=github-compact&hide_border=true&area=true" />
 </div>
 
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/siddharth9238/siddharth9238/output/github-snake-dark.svg" alt="Snake animation" />
+</p>
+
+<br clear="both">
 ---
 
 ## 📞 Let's Connect
