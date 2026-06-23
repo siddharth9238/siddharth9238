@@ -67,7 +67,7 @@ Currently pursuing my Master of Computer Applications (MCA) at Adamas University
 
 <div align="center">
 
-```mermaid
+mermaid
 graph TD
   A[Full Stack Development] --> B[Enterprise Systems]
   A --> C[Backend Engineering]
@@ -77,3 +77,32 @@ graph TD
   C --> G[Database Optimization]
   F --> H[JWT Authentication]
   G --> I[MySQL & PostgreSQL]
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohitkadwe19&theme=github_dark" />
+  <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mohitkadwe19&theme=github_dark" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=siddharth9236&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=siddharth9238&theme=github-compact&hide_border=true&area=true" />
+</div>
+
+---
+
+## 📞 Let's Connect
+
+<div align="center">
+
+**Open to:** Senior Engineering Roles · Technical Leadership · Consulting
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional_Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddharth-singh-3241b8241)
+[![Email](https://img.shields.io/badge/Email-Let's_Talk-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:singhsiddharth9238@gmail.com)
+[![Medium](https://img.shields.io/badge/Medium-Articles-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mohitkadwe)
+[![X](https://img.shields.io/badge/X-Updates-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/mohitkadwe)
+</div>
