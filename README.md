@@ -79,6 +79,22 @@ graph TD
   G --> I[MySQL & PostgreSQL]
 ```
 </div>
+
+### 🏗️ Enterprise Backend Architecture
+- **Role-Based Access Control (RBAC)** — Architecting secure, multi-role backend systems utilizing JWT authentication and Spring Security.
+- **Workflow Automation** — Designing scalable approval chains and compliance systems capable of dynamic risk score evaluation.
+- **Robust API Design** — Formulating database-backed RESTful endpoints with comprehensive error handling for high-concurrency environments.
+
+### 💻 Full Stack & IoT Integration
+- **Scalable Web Platforms** — Building responsive single-page applications utilizing modern React, ES6 JavaScript, and Tailwind CSS.
+- **Real-Time IoT Dashboards** — Engineering secure, asynchronous web interfaces to process real-time metrics for hardware systems like Arduino and ESP32-CAM.
+- **Performance Optimization** — Connecting frontends with Node.js and Spring Boot backends to eliminate integration bottlenecks and drastically reduce latency.
+
+### 🔐 Cloud Infrastructure & System Reliability
+- **Enterprise Ecosystems** — Implementing production-ready architectures backed by certifications as an SAP BTP Solution Architect and Oracle Cloud Infrastructure professional.
+- **Production-Grade Code Quality** — Leveraging SonarQube within CI/CD pipelines to proactively identify and resolve critical server-side vulnerabilities.
+- **Algorithmic Efficiency** — Applying strong foundations in Data Structures & Algorithms (150+ LeetCode problems solved) to optimize database queries and backend processing.
+  
 ## 📊 GitHub Stats
 
 <div align="center">
