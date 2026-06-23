@@ -67,7 +67,7 @@ Currently pursuing my Master of Computer Applications (MCA) at Adamas University
 
 <div align="center">
 
-mermaid
+```mermaid
 graph TD
   A[Full Stack Development] --> B[Enterprise Systems]
   A --> C[Backend Engineering]
@@ -77,7 +77,8 @@ graph TD
   C --> G[Database Optimization]
   F --> H[JWT Authentication]
   G --> I[MySQL & PostgreSQL]
-
+```
+</div>
 ## 📊 GitHub Stats
 
 <div align="center">
