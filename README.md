@@ -1,6 +1,6 @@
 [![@abhinendrayadav3's Holopin board](https://holopin.me/abhinendrayadav3)](https://holopin.io/@abhinendrayadav3)
 
-<h1 align="center">Hi 👋, I'm Abhinendra Singh</h1>
+<h1 align="center">Hi 👋, I'm Siddharth Singhn</h1>
 <h3 align="center">A passionate developer from India</h3>
 
 
@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Java,Javascript,NodeJs,ExpressJs,MongoDB,SQL**  
 
-- 📫 How to reach me **abhinendrayadav3@gmail.com**
+- 📫 How to reach me **singhsiddharth9238@gmail.com**
 
 <h3 align="left">Connect with me:</h3> 
 <p align="left">
