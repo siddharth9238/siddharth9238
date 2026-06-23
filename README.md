@@ -106,7 +106,7 @@ graph TD
 
 <div align="center">
 
-**Open to:** Senior Engineering Roles · Technical Leadership · Consulting
+**Open to:** Engineering Roles · Technical Leadership · Consulting
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional_Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddharth-singh-3241b8241)
 [![Email](https://img.shields.io/badge/Email-Let's_Talk-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:singhsiddharth9238@gmail.com)
