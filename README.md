@@ -1,3 +1,6 @@
+<img src="https://raw.githubusercontent.com/siddharth9238/siddharth9238/refs/heads/main/banner.png" width="100%"/>
+<div align="center">
+  
 # Hi, I'm Siddharth Singh <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Love-You%20Gesture.png" alt="Love-You Gesture" width="35" height="35" />
 
 <div align="center">
@@ -14,7 +17,10 @@
 </div>
 
 ---
-
+<table>
+<tr>
+<td valign="top" width="50%">
+  
 ## 🚀 About Me
 
 **Full Stack Engineer** — architecting secure, role-based enterprise systems.
@@ -23,6 +29,13 @@ Software engineer with full-stack & backend experience utilizing React, JavaScri
 
 Currently pursuing my Master of Computer Applications (MCA) at Adamas University, with previous experience as a Software Engineer Trainee at Nvisagecomp Solutions LLP. Skilled in translating complex logic into seamless front-end experiences.
 
+<td valign="top" width="50%">
+
+<img src="./coding.gif" width="500" alt="Animated banner"/>
+
+</td>
+</tr>
+</table>
 ---
 
 ## 💼 Core Expertise
