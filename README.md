@@ -44,12 +44,12 @@ Currently pursuing my Master of Computer Applications (MCA) at Adamas University
 <div align="center">
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap,flutter" />
+<img src="https://skillicons.dev/icons?i=react,typescript,javascript,html,css,tailwind,vite,flutter,bootstrap" />
 </p>
 </div>
 Backend
 <p align="center">
-<img src="https://skillicons.dev/icons?i=spring,bootstrap,nodejs,express,maven,nextjs,docker" />
+<img src="https://skillicons.dev/icons?i=spring,bootstrap,nodejs,express,go,maven,nextjs,docker" />
 </p>
 APIS
 <p align="center">
@@ -63,7 +63,7 @@ Languages
 </p>
 Databases
 <p align="center">
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite" />
 </p>
 Tools
 <p align="center">
