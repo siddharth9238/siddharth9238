@@ -49,7 +49,7 @@ Currently pursuing my Master of Computer Applications (MCA) at Adamas University
 </div>
 Backend
 <p align="center">
-<img src="https://skillicons.dev/icons?i=spring,bootstrap,nodejs,express,go,maven,nextjs,docker" />
+<img src="https://skillicons.dev/icons?i=spring,bootstrap,nodejs,express,go,maven,nextjs,docker,kubernetes" />
 </p>
 APIS
 <p align="center">
