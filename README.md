@@ -41,32 +41,32 @@ Currently pursuing my Master of Computer Applications (MCA) at Adamas University
 ## 💼 Core Expertise
 
  Frontend
-<div align="center">
+<div align="left">
 
-<p align="center">
+<p align="left">
 <img src="https://skillicons.dev/icons?i=react,typescript,javascript,html,css,tailwind,vite,flutter,bootstrap" />
 </p>
 </div>
 Backend
-<p align="center">
+<p align="left">
 <img src="https://skillicons.dev/icons?i=spring,bootstrap,nodejs,express,go,maven,nextjs,docker,kubernetes" />
 </p>
 APIS
-<p align="center">
+<p align="left">
 <img src="https://img.shields.io/badge/JWT-Authentication-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
 <img src="https://img.shields.io/badge/REST-API-009688?style=for-the-badge&logo=postman&logoColor=white" />
 <img src="https://img.shields.io/badge/Spring-Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" />
 </p>
 Languages
-<p align="center">
+<p align="left">
 <img src="https://skillicons.dev/icons?i=java,js,python,cpp,c" />
 </p>
 Databases
-<p align="center">
+<p align="left">
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite" />
 </p>
 Tools
-<p align="center">
+<p align="left">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,supabase" />
 </p>
 ---
