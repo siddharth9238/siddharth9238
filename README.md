@@ -67,7 +67,7 @@ Databases
 </p>
 Tools
 <p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,supabase" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,supabase,linux" />
 </p>
 ---
 
