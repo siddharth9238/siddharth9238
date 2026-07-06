@@ -125,12 +125,12 @@ graph TD
   <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=siddharth9238&theme=github_dark" />
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=siddharth9238&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
-</div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=siddharth9238&theme=github-compact&hide_border=true&area=true" />
+  <img
+    src="https://github-readme-streak-stats-eight.vercel.app/?user=siddharth9238&theme=github-dark-blue&hide_border=true"
+    alt="GitHub Streak"
+  />
 </div>
 
 ## 🐍 Contribution Snake
