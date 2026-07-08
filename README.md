@@ -121,27 +121,28 @@ graph TD
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=siddharth9238&theme=github_dark"
-    width="390"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=siddharth9238&theme=github_dark"
-    width="390"
-    alt="Top Languages"
-  />
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=siddharth9238&theme=github_dark" />
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=siddharth9238&theme=github_dark" />
+
 </div>
 
 <br>
 
 <div align="center">
-  <img
-    src="https://github-readme-streak-stats-eight.vercel.app?user=siddharth9238&theme=github-dark-blue&hide_border=true"
-    alt="GitHub Streak"
-  />
+
+<img src="https://streak-stats.demolab.com?user=siddharth9238&theme=github-dark-blue&hide_border=true" />
+
 </div>
 
+<br>
+
+<div align="center">
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=siddharth9238&theme=github-dark&hide_border=true&area=true" />
+
+</div>
 ---
 
 ## 🐍 Contribution Snake
