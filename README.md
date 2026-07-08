@@ -155,11 +155,11 @@ E --> J[PostgreSQL]
 
 <div align="center">
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=siddharth9238&theme=github_dark" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=siddharth9238&theme=github_dark&show_icons=true" alt="GitHub Stats"/>
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=siddharth9238&theme=github_dark" alt="Top Languages"/>
-
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddharth9238&theme=github_dark&layout=compact" alt="Top Languages"/>
 </div>
+
 
 <br>
 
