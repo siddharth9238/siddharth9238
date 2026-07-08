@@ -121,21 +121,36 @@ graph TD
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=siddharth9238&theme=github_dark" />
-  <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=siddharth9238&theme=github_dark" />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=siddharth9238&theme=github_dark"
+    width="390"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=siddharth9238&theme=github_dark"
+    width="390"
+    alt="Top Languages"
+  />
 </div>
 
+<br>
 
 <div align="center">
   <img
-    src="https://github-readme-streak-stats-eight.vercel.app/?user=siddharth9238&theme=github-dark-blue&hide_border=true"
+    src="https://github-readme-streak-stats-eight.vercel.app?user=siddharth9238&theme=github-dark-blue&hide_border=true"
     alt="GitHub Streak"
   />
 </div>
 
+---
+
 ## 🐍 Contribution Snake
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/siddharth9238/siddharth9238/output/github-snake-dark.svg" alt="Snake animation" />
+  <img
+    src="https://raw.githubusercontent.com/siddharth9238/siddharth9238/output/github-snake-dark.svg"
+    alt="Contribution Snake Animation"
+  />
 </p>
 
 
