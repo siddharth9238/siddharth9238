@@ -4,7 +4,7 @@
 
 # Hi, I'm Siddharth Singh 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D4AA&center=true&vCenter=true&width=850&lines=Full+Stack+Engineer;Backend+Developer+%7C+Java+%7C+Spring+Boot;Enterprise+Systems+Architecture;140%2B+LeetCode+Problems+Solved;Open+to+Software+Engineering+Roles" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D4AA&center=true&vCenter=true&width=850&lines=Full+Stack+Engineer;Backend+Developer+%7C+Java+%7C+Spring+Boot;Enterprise+Systems+Architecture;150%2B+LeetCode+Problems+Solved;Open+to+Software+Engineering+Roles" alt="Typing SVG"/>
 
 <br>
 
