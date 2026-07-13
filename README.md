@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/siddharth9238/siddharth9238/main/banner.png" width="100%" alt="Banner"/>
 
-<div align="center"
+<div align="center">
 
 # Hi, I'm Siddharth Singh 👋
 
