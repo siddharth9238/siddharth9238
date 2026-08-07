@@ -58,7 +58,7 @@ Backend-focused **Full Stack Engineer** passionate about building scalable enter
 ## ⚙️ Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,go,maven,docker,kubernetes"/>
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,go,maven,docker,kubernetes,kafka"/>
 </p>
 
 ## 🔌 APIs & Security
